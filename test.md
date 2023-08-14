@@ -8,6 +8,8 @@
 !!! note ahoj
 **bold**
 # nadpis {style="color:#2A80EE"}
+<b style="color:#2a80ee"> nadpis </b>
+$\frac{a}{b} = c$
 **ahoj** ahoj ahoj
 
 
