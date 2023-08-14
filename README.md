@@ -26,7 +26,7 @@ ____
 |-|:-----|:-:|
 |📘|<a href="Subjects/ZTE_I.md">ZÁKLADY TECHNOLOGIE SLÉVÁNÍ, TVÁŘENÍ A SVAŘOVÁNÍ</a>|*NONE*|
 
-</td><td>
+</td><td align="center">
     
 |🌍 WEBSITES|
 |:---:|
@@ -35,11 +35,9 @@ ____
 |[**`STROJAŘ`**](https://www.strojar.com/)|
 |[**`MAIL`**](https://my.fs.cvut.cz/services/portal/)|
 |[**`MOODLE`**](https://moodle-vyuka.cvut.cz/my/)|
-___
 
-##### TASKS
-- [ ] Úkol
-- [ ] Úkol
-- [ ] Úkol
+<div>
+    <img src="Images\prevodovka.png" width="220" align="center"/>
+</div>
 
 </td></tr> </table>
