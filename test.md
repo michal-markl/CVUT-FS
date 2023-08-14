@@ -1,29 +1,15 @@
 <body>    
-    <div>
+    <div width="1200">
         <img src="Images\CTU_logo_banner.png" width="360" align="left"/>
-    </div><br><br><br><br>
 </body>
-<br>
-
-!!! note ahoj
-**bold**
-# nadpis {style="color:#2A80EE"}
-<b style="color:#2a80ee"> nadpis </b>
-$\frac{a}{b} = c$
-**ahoj** ahoj ahoj
 
 
-!!! danger pozor
-    pozor
-!!! info a
-    info
-!!! tip a
-!!! check a
-!!! question a
-!!! warning a
-!!! example a
-    $y=x^2$
-<b style="color:#2A80EE;fontsize=40px">nadpis</b>
+# HEADER
+Autor: **Name Surname**<br>Year: **0000**<br><hr>
 
-[ ] asd
-**bold**{style="color:#2A80EE"}
+<details>
+    <summary>
+        <b>summary</b>
+    </summary>
+        text
+</details>
