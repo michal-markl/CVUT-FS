@@ -5,7 +5,10 @@
 
 
 # HEADER
-Autor: **Name Surname**<br>Year: **0000**<br><hr>
+Autor: **Michal Markl** - mikimarkl17@gmail.com <br>Year: **2023**<br><hr>
+
+<a href="https://github.com/michal-markl/CVUT-FS">```🏠```</a> 
+<a href="https://github.com/michal-markl">```🪪```</a>
 
 <details>
     <summary>
