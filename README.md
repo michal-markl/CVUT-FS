@@ -14,7 +14,7 @@
 |-|:-----|:-:|
 |📘|<a href="Subjects/ZTE_I.md">ZÁKLADY TECHNOLOGIE SLÉVÁNÍ, TVÁŘENÍ A SVAŘOVÁNÍ</a>|2.|
 |📘|<a href="Subjects/CHEM.md">CHEMIE</a>|3.|
-|📘|<a href="hSubjects/MAT_II.md">MATERIÁLY II</a>|3.|
+|📘|<a href="Subjects/MAT_II.md">MATERIÁLY II</a>|3.|
 |📘|<a href="Subjects/MA_III.md">MATEMATIKA III</a>|3.|
 |📘|<a href="Subjects/ME_I.md">MECHANIKA I</a>|3.|
 |📘|<a href="Subjects/ME_TEK.md">MECHANIKA TEKUTIN</a>|3.|
