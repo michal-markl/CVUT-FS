@@ -7,7 +7,7 @@
 <hr>
 
 <table>
-<tr><th>LIST OF SUBJECTS </th><th>...</th></tr>
+<tr><th>LIST OF SUBJECTS </th><th>OTHER</th></tr>
 <tr><td>
 
 |🔩|SUBJECT|SEMESTER|
@@ -26,7 +26,11 @@
     
 |🌍 WEBSITES|
 |:---:|
-|[`KOS`](https://www.kos.cvut.cz/) [`FS ČVUT`](https://www.fs.cvut.cz/) [`STROJAŘ`](https://www.strojar.com/) [`MAIL`](https://my.fs.cvut.cz/services/portal/) [`MOODLE`](https://moodle-vyuka.cvut.cz/my/)|
+|[`KOS`](https://www.kos.cvut.cz/)| 
+|[`FS ČVUT`](https://www.fs.cvut.cz/)|
+|[`STROJAŘ`](https://www.strojar.com/)|
+|[`MAIL`](https://my.fs.cvut.cz/services/portal/)|
+|[`MOODLE`](https://moodle-vyuka.cvut.cz/my/)|
 
 ##### TASKS
 - [ ] Úkol
