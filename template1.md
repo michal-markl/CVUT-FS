@@ -17,7 +17,11 @@ Autor: **Michal Markl** - mikimarkl17@gmail.com <br>Year: **2023**<br><hr>
 
 <details>
     <summary>
-        <b>summary</b>
+        <h2>SECTION</h2>
     </summary>
-        text
+    <ul>
+        <li>
+            asd
+        </li>
+    </ul>l
 </details>
