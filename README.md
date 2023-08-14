@@ -12,7 +12,7 @@
 
 |🔩|SUBJECT|SEMESTER|
 |-|:-----|:-:|
-|📘|<a href="https://github.com/michal-markl/CVUT-FS/blob/main/Subjects/ZTE_I.md">ZÁKLADY TECHNOLOGIE SLÉVÁNÍ, TVÁŘENÍ A SVAŘOVÁNÍ</a>|2.|
+|📘|<a href="Subjects/ZTE_I.md">ZÁKLADY TECHNOLOGIE SLÉVÁNÍ, TVÁŘENÍ A SVAŘOVÁNÍ</a>|2.|
 |📘|<a href="https://github.com/michal-markl/CVUT-FS/blob/main/Subjects/CHEM.md">CHEMIE</a>|3.|
 |📘|<a href="https://github.com/michal-markl/CVUT-FS/blob/main/Subjects/MAT_II.md">MATERIÁLY II</a>|3.|
 |📘|<a href="https://github.com/michal-markl/CVUT-FS/blob/main/Subjects/MA_III.md">MATEMATIKA III</a>|3.|
