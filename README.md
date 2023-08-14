@@ -26,11 +26,11 @@
     
 |🌍 WEBSITES|
 |:---:|
-|[`KOS`](https://www.kos.cvut.cz/)| 
-|[`FS ČVUT`](https://www.fs.cvut.cz/)|
-|[`STROJAŘ`](https://www.strojar.com/)|
-|[`MAIL`](https://my.fs.cvut.cz/services/portal/)|
-|[`MOODLE`](https://moodle-vyuka.cvut.cz/my/)|
+|[**`KOS`**](https://www.kos.cvut.cz/)| 
+|[**`FS ČVUT`**](https://www.fs.cvut.cz/)|
+|[**`STROJAŘ`**](https://www.strojar.com/)|
+|[**`MAIL`**](https://my.fs.cvut.cz/services/portal/)|
+|[**`MOODLE`**](https://moodle-vyuka.cvut.cz/my/)|
 
 ##### TASKS
 - [ ] Úkol
