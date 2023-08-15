@@ -4,7 +4,7 @@
 </body>
 
 
-# ZÁKLADY PROGRAMOVÁNÍ A ALGORITMIZACE
+# ZÁKLADY PROG. A ALGO.
 Autor: **Michal Markl** - mikimarkl17@gmail.com <br>Year: **2023**<br><hr>
 
 <a href="https://github.com/michal-markl/CVUT-FS">```🏠```</a> 
