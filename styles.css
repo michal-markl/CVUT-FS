@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --BLUE: #2A80EE;
+    --DARKERBLUE: #0D0F15;
+    --DARKESTBLUE: #070708;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--DARKERBLUE);
+}
+
+.header {
+    background-color: var(--DARKESTBLUE);
+    color: aqua;
+    min-height: 13.2em;
+    height: auto;
+}
+
+.sidebar {
+    background-color: var(--BLUE);
+    color: aqua;
+    margin-top: 0.3rem;
+    margin-left: 0.7rem;
+    width: 175px;
+    font-size: 2em;
+}
+
+.footer {
+    background-color: violet;
+    color: aqua;
+    display: none;
+}
+
+h1 {
+    font-size: 4em;
+    color: var(--BLUE);
+    padding: 1em;
+    padding-bottom: 0em;
+    text-align: center;
+    border-top: 2px var(--BLUE) solid
+}
+
+.signature {
+    font-size: 1em;
+    font-weight: 700;
+    color: var(--BLUE);
+    text-align: right;
+    padding: 1em;
+    padding-top: 0em;
+    border-bottom: 2px var(--BLUE) solid;
+}
+
+.CTU_logo_banner {
+    padding: 1em;
+    padding-left:0.7em;
+    height: 11em;
+    width: auto;
+    position: relative;
+}
